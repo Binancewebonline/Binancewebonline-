@@ -1,7 +1,7 @@
 
 # BinanceWebOnline
 
-**BinanceWebOnline** is a demo cryptocurrency trading website inspired by Binance.
+**BinanceWebOnline** is a cryptocurrency trading website inspired by Binance.
 
 This project showcases a simplified, front-end-only version of a trading dashboard using real-time data from the CoinGecko API.
 
@@ -22,8 +22,7 @@ This project showcases a simplified, front-end-only version of a trading dashboa
 
 ## Live Demo
 
-Visit the site at: **https://yourusername.github.io/binancewebonline/**  
-*(Replace `yourusername` with your actual GitHub username.)*
+Visit the site at: **https://binancewebonline.github.io/binancewebonline/**  
 
 ## Disclaimer
 
@@ -32,4 +31,3 @@ It does not perform real trading or financial transactions.
 
 ---
 
-Created with guidance from ChatGPT.
