@@ -29,5 +29,4 @@ Visit the site at: **https://binancewebonline.github.io/binancewebonline/**
 This site is for **educational and demo purposes only**.  
 It does not perform real trading or financial transactions.
 
----
 
